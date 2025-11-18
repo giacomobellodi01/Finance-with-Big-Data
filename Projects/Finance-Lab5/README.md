@@ -20,6 +20,5 @@ This project uses financial statement data to predict firms’ credit scores usi
 
 - Model Training — Fit and tune supervised ML models to classify credit scores.
 
-- Evaluation — Compare models’ predictive accuracy and fairness impacts.
+- Evaluation — Compare models’ predictive accuracy and fairness impacts and suggest new evaluation metric.
 
-- Ethical Analysis — Discuss algorithmic bias and welfare implications of automated credit screening.
